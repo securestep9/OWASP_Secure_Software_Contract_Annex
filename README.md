@@ -1,0 +1,2 @@
+# OWASP_Secure_Software_Contract_Annex
+Copy of OWASP_Secure_Software_Contract_Annex
